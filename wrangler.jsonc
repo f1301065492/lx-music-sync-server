@@ -7,4 +7,5 @@ compatibility_date = "2026-01-20" # 使用日志中的日期作为兼容性日�
 # NODE_ENV = "production"
 
 # [observability]
+
 # enabled = true
