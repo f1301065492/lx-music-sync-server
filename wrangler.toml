@@ -1,0 +1,9 @@
+name = "lx-music-sync-server"
+main = "server/index.js"
+compatibility_date = "2026-01-20"
+
+# 开启 Node.js 兼容性模式，解决 Could not resolve "path" 等错误
+compatibility_flags = [ "nodejs_compat" ]
+
+[vars]
+# 如果您的程序需要特定的环境变量，请在此处添加
